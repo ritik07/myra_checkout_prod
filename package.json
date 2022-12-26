@@ -1,0 +1,25 @@
+{
+  "name": "prodserver",
+  "version": "1.0.0",
+  "description": "mayra server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritik07/myra_checkout_prod.git"
+  },
+  "author": "Ritik soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritik07/myra_checkout_prod/issues"
+  },
+  "homepage": "https://github.com/ritik07/myra_checkout_prod#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
